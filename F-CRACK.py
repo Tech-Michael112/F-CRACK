@@ -1,1 +1,1 @@
-import crack
+print(" drop screenshots... you refused")
